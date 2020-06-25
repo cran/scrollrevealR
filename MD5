@@ -1,0 +1,13 @@
+edebcb9e28482cb93e3a979d96f639c7 *DESCRIPTION
+04eda5d5896cfcf9845d5e190af140eb *LICENSE
+df390c53434517b304ac5db487184641 *NAMESPACE
+d5f4f158ae888181e5603495994b6b23 *R/scroll_reveal.R
+2954e5438e208bd6010777f72ab938e6 *R/use_reveal.R
+127f9864310619c1b6d5288d9eed4715 *README.md
+1e7b59529adc1202b5ed13b2f19ee4ef *build/vignette.rds
+6c52028a3cbf3a02a1fff98ffb5b1150 *inst/doc/Introduction.R
+785f333676b82d47515f3dfeab0ffec4 *inst/doc/Introduction.Rmd
+e46e2a2b5e742c086f3664cc1a70fa83 *inst/doc/Introduction.html
+02e48551fccc2ad84157c25fcfe998a5 *man/scroll_reveal.Rd
+22651c42528a1eff0090805eee43572c *man/use_reveal.Rd
+785f333676b82d47515f3dfeab0ffec4 *vignettes/Introduction.Rmd
