@@ -4,6 +4,12 @@ knitr::opts_chunk$set(
   comment = "#>"
 )
 
+## ---- eval=FALSE--------------------------------------------------------------
+#  
+#  install.packages("scrollrevealR")
+#  
+#  
+
 ## ----eval=FALSE---------------------------------------------------------------
 #  # install.packages("devtools")
 #  devtools::install_github("feddelegrand7/scrollrevealR")
@@ -38,8 +44,6 @@ knitr::opts_chunk$set(
 #  
 #    scroll_reveal(target = "h1", duration = 2000, distance = "100px"),
 #    # -----------------------------------------------------------------------------
-#  
-#    use_reveal(), # IMPORTANT! don't forget to activate the package with use_reveal()
 #  
 #    # Making some space at the end
 #  
